@@ -1,0 +1,17 @@
+{
+  "name": "adeunis_codec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@adeunis/codecs": "^1.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  }
+}
